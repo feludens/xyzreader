@@ -2354,14 +2354,13 @@ containing a value of this type.
         public static final int ic_arrow_back=0x7f020049;
         public static final int ic_share=0x7f02004a;
         public static final int logo=0x7f02004b;
-        public static final int notification_template_icon_bg=0x7f020053;
+        public static final int notification_template_icon_bg=0x7f020052;
         public static final int padded_divider=0x7f02004c;
         public static final int photo_background_protection=0x7f02004d;
         public static final int saopaulo=0x7f02004e;
         public static final int scrim=0x7f02004f;
         public static final int scrim_bottom=0x7f020050;
-        public static final int scrim_top=0x7f020051;
-        public static final int white_selectable_item_background_circle=0x7f020052;
+        public static final int white_selectable_item_background_circle=0x7f020051;
     }
     public static final class fraction {
         public static final int detail_body_line_spacing_multiplier=0x7f090000;
@@ -2385,10 +2384,10 @@ containing a value of this type.
         public static final int activity_chooser_view_content=0x7f0a003d;
         public static final int alertTitle=0x7f0a0049;
         public static final int always=0x7f0a0032;
-        public static final int article_body=0x7f0a007e;
-        public static final int article_byline=0x7f0a007d;
+        public static final int article_body=0x7f0a007d;
+        public static final int article_byline=0x7f0a007c;
         public static final int article_subtitle=0x7f0a0081;
-        public static final int article_title=0x7f0a007c;
+        public static final int article_title=0x7f0a0080;
         public static final int beginning=0x7f0a0030;
         public static final int bottom=0x7f0a001c;
         public static final int buttonPanel=0x7f0a0044;
@@ -2477,7 +2476,7 @@ containing a value of this type.
         public static final int search_src_text=0x7f0a0063;
         public static final int search_voice_btn=0x7f0a0067;
         public static final int select_dialog_listview=0x7f0a0068;
-        public static final int share_fab=0x7f0a007f;
+        public static final int share_fab=0x7f0a007e;
         public static final int shortcut=0x7f0a0053;
         public static final int showCustom=0x7f0a0011;
         public static final int showHome=0x7f0a0012;
@@ -2498,7 +2497,7 @@ containing a value of this type.
         public static final int text=0x7f0a008c;
         public static final int text2=0x7f0a008a;
         public static final int textSpacerNoButtons=0x7f0a004d;
-        public static final int thumbnail=0x7f0a0080;
+        public static final int thumbnail=0x7f0a007f;
         public static final int time=0x7f0a0088;
         public static final int title=0x7f0a0043;
         public static final int title_template=0x7f0a0048;
