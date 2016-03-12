@@ -25,7 +25,7 @@
     <color name="abc_search_url_text_selected">@android:color/black</color>
     <!-- From: file:/Users/pereirf/Downloads/xyzreader/XYZReader/src/main/res/values/colors.xml -->
     <eat-comment/>
-    <color name="accent">#FFEA00</color>
+    <color name="accent">#009ECE</color>
     <!-- From: file:/Users/pereirf/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
