@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/pereirf/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/pereirf/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2-f7521ccc602db08fbbc81a7620c8184f363a75f5.jar" />
+    </item>
+    <item
+        jar="/Users/pereirf/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/pereirf/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-994d9b5f85c315aaacda964e76e026600b1ac2d3.jar" />
+    </item>
+    <item
+        jar="/Users/pereirf/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a978650837318cf056bf3383ff02fe7a3b891f20">
+        <dex dex="/Users/pereirf/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-d448f6c67ab632368bd1e80313395cbdb203eca0.jar" />
+    </item>
+    <item
+        jar="/Users/pereirf/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/pereirf/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-beb8d40d54b9b93fe1511a933eceb1813264cdeb.jar" />
+    </item>
+    <item
+        jar="/Users/pereirf/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/pereirf/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-d9f2191a417951713d7d8627463c73a6fe2b1f28.jar" />
+    </item>
+    <item
+        jar="/Users/pereirf/Downloads/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/pereirf/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley-5526e2f79cfabcca8b33e15f19b557ffd7494e05.jar" />
+    </item>
+    <item
+        jar="/Users/pereirf/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/pereirf/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-8d59a23e8d7485daf1da6e9a01ca55f5f9f6167a.jar" />
+    </item>
+    <item
+        jar="/Users/pereirf/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/pereirf/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-822b6b25944d245d32c479317a8aedc2a73becd5.jar" />
+    </item>
+    <item
+        jar="/Users/pereirf/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="/Users/pereirf/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-a572a800ed0860c397458c1963ac0d88f174fc56.jar" />
+    </item>
+    <item
+        jar="/Users/pereirf/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/pereirf/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-aed74d804fd3c300799309025a866d348677e8c9.jar" />
+    </item>
+    <item
+        jar="/Users/pereirf/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/pereirf/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0-64321413024d175c803a3fa6c9ddeb87120234e1.jar" />
+    </item>
+    <item
+        jar="/Users/pereirf/Downloads/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/pereirf/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley-5526e2f79cfabcca8b33e15f19b557ffd7494e05.jar" />
+    </item>
+    <item
+        jar="/Users/pereirf/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="/Users/pereirf/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-afff74bae43536daaed079dcae4308859e9a4a4e.jar" />
+    </item>
+    <item
+        jar="/Users/pereirf/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/pereirf/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-caceeea913bcfc02866f8ba7af5d1e6584e5b020.jar" />
+    </item>
+
+</items>
